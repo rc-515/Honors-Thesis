@@ -43,7 +43,7 @@ for (pkg in required) {
 #
 # *** UPDATE THIS PATH to match your downloaded filename ***
 
-dta_path <- "GSS_cumulative.dta"
+dta_path <- "GSS7224_R1.dta"
 # Common alternatives:
 # dta_path <- "GSS_cum.dta"
 # dta_path <- "gss7224_r1.dta"

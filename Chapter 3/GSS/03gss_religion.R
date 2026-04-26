@@ -13,7 +13,7 @@ library(scales)
 library(patchwork)
 
 # ── Load data ────────────────────────────────────────────────────────────────
-dta_path <- "gss_cumulative.dta"
+dta_path <- "GSS7224_R1.dta"
 
 all_names <- names(haven::read_dta(dta_path, n_max = 0))
 name_lookup <- setNames(all_names, toupper(all_names))
