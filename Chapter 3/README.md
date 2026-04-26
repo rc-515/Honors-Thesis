@@ -1,5 +1,7 @@
 # Survey Analysis of the Attitudes and Opinions of Young Men
 
+<br>
+
 ## General Social Survey (GSS) Analysis
 
 Replication code for a study of young men's digital habits, political attitudes, and social wellbeing using the General Social Survey. Covers a cross-sectional analysis of the 2024 ISSP "Digital Societies" module and a longitudinal trend analysis spanning 1972–2024.
@@ -108,8 +110,6 @@ table_young_male_effects.csv      # OLS young male effect coefficients
 
 ---
 
----
-
 #### `02_gss_trends_young_men.R`: Analysis of Trends in Opinions of Young Men
 
 Longitudinal trend analysis using the GSS cumulative file (1972–2024). Requires `GSS7224_R1.dta`.
@@ -186,6 +186,7 @@ All analyses define four demographic groups based on `SEX` (1 = male, 2 = female
 | Older Women (30+) | SEX = 2, AGE ≥ 30 |
 
 ---
+<br>
 
 ## YMRP Files
 
