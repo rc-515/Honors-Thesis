@@ -1,5 +1,5 @@
 # Code for Honors Thesis on Online Radicalization Pathways and Cultures, written by Rowan Cahill. Submitted April 16, 2026.
-Any questions can be directed at contact@rowancahill.com.
+Any questions can be directed to contact@rowancahill.com.
 
 ## Outline
 
@@ -55,6 +55,7 @@ Chapter 5 analyzes over 8.5 million livestream chat messages from five right-lea
 
 The Thesis discussing the results of this project is accessible through [Wesleyan's Special Collections & Archives](https://digitalcollections.wesleyan.edu/islandora/object/wesleyanct-etd_hon_theses?).
 
+This repo also contains **the Appendix for the Thesis, contained in `Appendix.pdf`.**
 
 
 ## Disclaimers
